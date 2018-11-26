@@ -57,7 +57,7 @@ Customers usually do not decide to switch to another competitor instantly, but r
 In this case, since you are working over a four-month window, the first two months are the ‘good’ phase, the third month is the ‘action’ phase, while the fourth month is the ‘churn’ phase.
  
 ### Dataset and Data Dictionary
-The dataset and Data Dictionary can be downloaded from [here](data/telecom_churn_data.csv).
+The dataset and Data Dictionary can be downloaded from [here](data/telecom_churn_data.zip).
 
 The data dictionary contains meanings of abbreviations. Some frequent ones are loc (local), IC (incoming), OG (outgoing), T2T (telecom operator to telecom operator), T2O (telecom operator to another operator), RECH (recharge) etc.
  
